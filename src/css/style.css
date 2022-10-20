@@ -25,6 +25,7 @@ body {
     font-size: 1.25rem;
     margin: 0.3125rem;
     padding: 0.3125rem;
+    color: var(--Dark);
 }
 
 .info {
@@ -32,5 +33,6 @@ body {
     font-size: 0.9375rem;
     margin: 0.3125rem;
     padding: 0.3125rem;
+    color: var(--Grayish);
 }
 
