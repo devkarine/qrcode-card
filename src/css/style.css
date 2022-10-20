@@ -1,0 +1,39 @@
+body {
+    font-family: 'Outfit', sans-serif;
+    font-weight: 400;
+    background-color: var(--Light);
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.card {
+    background-color: #ffffff;
+    max-width: 300px;
+    border-radius: 15px;
+    padding: 15px;
+}
+
+.qrcode {
+    width: 100%;
+
+    border-radius: 10px;
+}
+
+.title {
+    font-size: 20px;
+    margin: 5px;
+    padding: 5px;
+}
+
+.info {
+    text-align: center;
+    font-size: 15px;
+    margin: 5px;
+    padding: 5px;
+}
+
