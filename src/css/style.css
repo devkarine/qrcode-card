@@ -2,9 +2,6 @@ body {
     font-family: 'Outfit', sans-serif;
     font-weight: 400;
     background-color: var(--Light);
-}
-
-.container {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -13,27 +10,27 @@ body {
 
 .card {
     background-color: #ffffff;
-    max-width: 300px;
-    border-radius: 15px;
-    padding: 15px;
+    max-width: 18.75rem;
+    border-radius: 0.9375rem;
+    margin: 1.25rem;
+    padding: 0.9375rem;
 }
 
 .qrcode {
     width: 100%;
-
-    border-radius: 10px;
+    border-radius: 0.625rem;
 }
 
 .title {
-    font-size: 20px;
-    margin: 5px;
-    padding: 5px;
+    font-size: 1.25rem;
+    margin: 0.3125rem;
+    padding: 0.3125rem;
 }
 
 .info {
     text-align: center;
-    font-size: 15px;
-    margin: 5px;
-    padding: 5px;
+    font-size: 0.9375rem;
+    margin: 0.3125rem;
+    padding: 0.3125rem;
 }
 
